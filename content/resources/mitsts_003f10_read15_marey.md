@@ -4,6 +4,8 @@ description: This resource contains information related to marey.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/187f4aace5c58f3d1b340b32c1e34213_MITSTS_003F10_read15_marey.pdf
 file_size: 782816
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

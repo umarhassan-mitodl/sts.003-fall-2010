@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides descriptions of the writing assignments for the
   course and includes examples of student work.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
