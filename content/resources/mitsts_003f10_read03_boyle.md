@@ -4,6 +4,8 @@ description: This resource contains information related to boyle.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/4d8f1a55ac3175209ff9547f5ff22776_MITSTS_003F10_read03_boyle.pdf
 file_size: 938438
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
