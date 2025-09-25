@@ -1,0 +1,47 @@
+leftnav:
+- identifier: e896967b-3120-fd79-c6aa-bdea040ea0d7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 343a158a-b055-584c-2adb-7ead8838d802
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 20
+- identifier: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: a4314ea4-b773-0b5e-d07f-f4cacf0b1816
+  name: Paper 1
+  pageRef: /pages/assignments/assn1/
+  parent: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
+  weight: 40
+- identifier: 60f220b3-5ea0-c0c7-bb5f-82cd645181ec
+  name: Paper 2
+  pageRef: /pages/assignments/assn2
+  parent: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
+  weight: 50
+- identifier: 9f226564-4deb-87d3-6c6b-d1931ca0c197
+  name: Paper 2 Rewrite
+  pageRef: /pages/assignments/assn3
+  parent: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
+  weight: 60
+- identifier: 575412ff-b44a-65a6-fd6c-0c8acbf32fbd
+  name: Final Paper Proposal
+  pageRef: /pages/assignments/assn4prop
+  parent: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
+  weight: 70
+- identifier: f39eb890-232d-888c-8c6c-61ae212bcd5b
+  name: Final Paper, Option A
+  pageRef: /pages/assignments/assn4a
+  parent: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
+  weight: 80
+- identifier: 3eb09fcc-c7b5-599f-f547-ad82e117e48f
+  name: Final Paper, Option B
+  pageRef: /pages/assignments/assn4b
+  parent: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
+  weight: 90
+- identifier: 92f1035d-07c7-23cf-bcfc-4a2b1cf826e1
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 100
