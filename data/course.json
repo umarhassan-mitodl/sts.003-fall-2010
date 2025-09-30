@@ -29,6 +29,7 @@
     "website": "sts-003-the-rise-of-modern-science-fall-2010"
   },
   "course_title": "The Rise of Modern Science",
+  "hide_download": true,
   "course_description": "This subject introduces the history of science from antiquity to the present. Students consider the impact of philosophy, art, magic, social structure, and folk knowledge on the development of what has come to be called \"science\" in the Western tradition, including those fields today designated as physics, biology, chemistry, medicine, astronomy and the mind sciences. Topics include concepts of matter, nature, motion, body, heavens, and mind as these have been shaped over the course of history. Students read original works by Aristotle, Vesalius, Newton, Lavoisier, Darwin, Freud, and Einstein, among others.\n",
   "department_numbers": [
     "STS"
@@ -39,6 +40,7 @@
     "content": "24cdc3d2-eb60-0411-0420-820e073a8ebe",
     "website": "sts-003-the-rise-of-modern-science-fall-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

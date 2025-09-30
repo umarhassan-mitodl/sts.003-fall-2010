@@ -5,6 +5,8 @@ description: This resource contains information related to alchemy and experimen
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/71b9bae83d43c79ee59075c399520c85_MITSTS_003F10_lec03.pdf
 file_size: 3513160
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

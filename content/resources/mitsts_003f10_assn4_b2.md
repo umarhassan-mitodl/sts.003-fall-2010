@@ -4,6 +4,8 @@ description: 'This resource contains information related to poking. '
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/f701c4d1977702535e81720f6199f4ae_MITSTS_003F10_assn4_b2.pdf
 file_size: 116147
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
