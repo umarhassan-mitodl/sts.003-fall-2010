@@ -12,9 +12,9 @@ uid: 343a158a-b055-584c-2adb-7ead8838d802
 
 ## **Key**
 
-\[PD\] = Dear, Peter. *The Intelligibility of Nature: How Science Makes Sense of the World*. University of Chicago Press, 2006. ISBN: 9780226139487. \[Preview with [Google Books](http://books.google.com/books?id=W1GAG3vJHpgC&printsec=frontcover#v=onepage&q&f=false)\]
+\[PD\] = Dear, Peter. *The Intelligibility of Nature: How Science Makes Sense of the World*. University of Chicago Press, 2006. ISBN: 9780226139487. \[Preview with {{% resource_link "59394849-ca89-4c1b-930c-f4e2282284bf" "Google Books" %}}\]
 
-\[DL\] = Lindberg, David C. *The Beginnings of Western Science*. 2nd ed. University of Chicago Press, 2008. ISBN: 9780226482057. \[Preview with [Google Books](http://books.google.com/books?id=dPUBAkIm2lUC&printsec=frontcover#v=onepage&q&f=false)\]
+\[DL\] = Lindberg, David C. *The Beginnings of Western Science*. 2nd ed. University of Chicago Press, 2008. ISBN: 9780226482057. \[Preview with {{% resource_link "53240a91-bf54-461f-919d-e6327f332567" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 **LEC #**
@@ -38,9 +38,9 @@ The stuff of matter in the ancient world
 
 ### *Required*
 
-Kirk, G. S., J. E. Raven, and M. Schofield. Excerpt from "The Ionian Thinkers: Thales of Miletus." In *The Presocratic Philosophers: A Critical History with a Selection of Texts*. 2nd ed. Cambridge University Press, 1984, pp. 88-95. ISBN: 9780521274555. \[Preview with [Google Books](http://books.google.com/books?id=kFpd86J8PLsC&printsec=frontcover#v=onepage&q&f=false)\]
+Kirk, G. S., J. E. Raven, and M. Schofield. Excerpt from "The Ionian Thinkers: Thales of Miletus." In *The Presocratic Philosophers: A Critical History with a Selection of Texts*. 2nd ed. Cambridge University Press, 1984, pp. 88-95. ISBN: 9780521274555. \[Preview with {{% resource_link "134f8bc1-ecf9-4873-927b-1b6aee26e07c" "Google Books" %}}\]
 
-Aristotle. Book II, parts 1-3 in *Physics*. Translated by R. P. Hardie, and R. K. Gaye. ([PDF](https://old.ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/readings/MITSTS_003F10_read02_aris.pdf))
+Aristotle. Book II, parts 1-3 in *Physics*. Translated by R. P. Hardie, and R. K. Gaye. ({{% resource_link "1fa89088-fe52-4913-9220-1e374ca15e0a" "PDF" %}})
 
 \[DL\], pp. 25-58.
 
@@ -58,13 +58,13 @@ Alchemy and experiment in the Renaissance
 
 Starkey, George. *Alchemical Laboratory Notebooks and Correspondence*. Edited by William R. Newman, and Lawrence M. Principe. University of Chicago Press, 2005, pp. 127-129, and 170-175. ISBN: 9780226577012.
 
-Boyle, Robert. "To the Reader," and "Experiment 1." In *New Experiments Physico-Mechanicall, Touching the Spring of the Air*. Oxford UK: H. Hall, 1660. ISBN: 9781240795727 (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif)[PDF](https://old.ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/readings/MITSTS_003F10_read03_boyle.pdf)).
+Boyle, Robert. "To the Reader," and "Experiment 1." In *New Experiments Physico-Mechanicall, Touching the Spring of the Air*. Oxford UK: H. Hall, 1660. ISBN: 9781240795727 (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif){{% resource_link "3cb54187-c47c-4ac1-a696-7c6c0ebb8984" "PDF" %}}).
 
 Dear, Peter. *Revolutionizing the Sciences: European Knowledge and its Ambitions, 1500-1700.* 2nd ed. Princeton University Press, 2009, pp. 127-144. ISBN: 9780691142067.
 
 ### *Suggested*
 
-Shapin, Steven. "Pump and Circumstance: Robert Boyle's Literary Technology." *Social Studies of Science* 14, no. 4 (1984): 481-520. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif) [PDF](http://dash.harvard.edu/bitstream/handle/1/3353764/Shapin_Pump.pdf?sequence=1))
+Shapin, Steven. "Pump and Circumstance: Robert Boyle's Literary Technology." *Social Studies of Science* 14, no. 4 (1984): 481-520. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif) {{% resource_link "cdfe098e-de3b-47dc-b531-5352e4cdc080" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -80,7 +80,7 @@ Lavoisier, Antoine-Laurent. *Elements of Chemistry, in a New Systematic Order, C
 
 ### *Suggested*
 
-Bensaude-Vincent, Bernadette. "[A View of the Chemical Revolution Through Contemporary Textbooks: Lavoisier, Fourcroy, and Chaptal](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=2936480)." *British Journal for the History of Science* 23 (1990): 435-460.
+Bensaude-Vincent, Bernadette. "{{% resource_link "640418d2-edd1-4554-a518-b5e93251d680" "A View of the Chemical Revolution Through Contemporary Textbooks: Lavoisier, Fourcroy, and Chaptal" %}}." *British Journal for the History of Science* 23 (1990): 435-460.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -90,7 +90,7 @@ Quantum alchemy?
 
 ### *Required*
 
-Smyth, Henry DeWolf. *Atomic Energy for Military Purposes*. Princeton University Press, 1945, pp. 206-226. ISBN: 9780804717229. ([PDF](https://old.ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/readings/MITSTS_003F10_read05_smyth.pdf))
+Smyth, Henry DeWolf. *Atomic Energy for Military Purposes*. Princeton University Press, 1945, pp. 206-226. ISBN: 9780804717229. ({{% resource_link "1058a091-1fc4-4d58-919b-9e0750b8d9c3" "PDF" %}})
 
 \[PD\] "How to Understand Nature? Einstein, Bohr, and the Quantum Universe." Pp. 141-172.
 
@@ -110,15 +110,15 @@ The nature of nature in ancient and medieval Worlds
 
 Grant, Edward. "Introduction to *The Art of Falconry*." In *A Source Book in Medieval Science*. Edited by E. Grant. Harvard University Press, 1974, pp. 657-659. ISBN: 9780674823600.
 
-Frederick II of Hohenstaufen. Selections from *The Art of Falconry being the De arte venandi cum avibus of Frederick II of Hohenstaufen*. Translated and edited by Casey A. Wood, and F. Marjorie Fyfe. Stanford University Press, 1943, pp. 3-15, 64-70, 97-99, and 105-107. ISBN: 9780804703741. \[Preview with [Google Books](http://books.google.com/books?id=TccPuWKAxBkC&printsec=frontcover#v=onepage&q&f=false)\]
+Frederick II of Hohenstaufen. Selections from *The Art of Falconry being the De arte venandi cum avibus of Frederick II of Hohenstaufen*. Translated and edited by Casey A. Wood, and F. Marjorie Fyfe. Stanford University Press, 1943, pp. 3-15, 64-70, 97-99, and 105-107. ISBN: 9780804703741. \[Preview with {{% resource_link "33e9e3a1-e2f5-416f-b9dc-61968b203426" "Google Books" %}}\]
 
 Tufty, Barbara. "Falconry Sport Allowed." *The Science News-Letter* 86, no. 6 (August 8, 1964): 95.
 
 ### *Suggested*
 
-Park, Katharine. "Nature in Person: Medieval and Renaissance Allegories and Emblems." In *The Moral Authority of Nature*. Edited by Lorraine Daston, and Fernando Vidal. University of Chicago Press, 2003, pp. 50-73. ISBN: 9780226136813. \[Preview with [Google Books](http://books.google.com/books?id=0lzUIxcYDKUC&lpg=PP1&pg=PA50#v=onepage&q&f=false)\].
+Park, Katharine. "Nature in Person: Medieval and Renaissance Allegories and Emblems." In *The Moral Authority of Nature*. Edited by Lorraine Daston, and Fernando Vidal. University of Chicago Press, 2003, pp. 50-73. ISBN: 9780226136813. \[Preview with {{% resource_link "897962ce-67ab-4093-ab02-8775476ed0da" "Google Books" %}}\].
 
-Josselyn, John. *New England's Rarities Discovered* \[1674\]. Applewood Books, 1986. ISBN: 9780918222794. \[Preview with [Google Books](http://books.google.com/books?id=iWSC6HwiixsC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)\]
+Josselyn, John. *New England's Rarities Discovered* \[1674\]. Applewood Books, 1986. ISBN: 9780918222794. \[Preview with {{% resource_link "920626a3-9dab-4f7d-9870-6fececee82ee" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -130,9 +130,9 @@ Exploring, collecting, classifying
 
 Linnaeus, Carl. "Observations on The Three Kingdoms of Nature." In *Systema Naturae* *1735*. Translated by S. J. Engel-Ledeboer, and H. Engel. Amsterdam, The Netherlands. HES & De Graaf Publishers, 2003, pp. 17-30. ISBN: 9789060041048.
 
-———. Sample original pages from *Systema Naturae* *1735* Latin edition (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif)[PDF – 2.4MB](https://old.ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/readings/MITSTS_003F10_read07_linna.pdf))
+———. Sample original pages from *Systema Naturae* *1735* Latin edition (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif){{% resource_link "a397aa69-3397-481b-97a6-4b81f80fff0b" "PDF – 2.4MB" %}})
 
-Koerner, Lisbet. "Carl Linnaeus in His Time and Place." In *Cultures of Natural History*. 2nd ed. Edited by N. Jardine, J. A. Secord, and E. C. Spary. Cambridge University Press, 1996, pp. 145-163. ISBN: 9780521558945. \[Preview with [Google Books](http://books.google.com/books?id=z9_Z9UbUIeQC&lpg=PP1&pg=PA145#v=onepage&q&f=false)\]
+Koerner, Lisbet. "Carl Linnaeus in His Time and Place." In *Cultures of Natural History*. 2nd ed. Edited by N. Jardine, J. A. Secord, and E. C. Spary. Cambridge University Press, 1996, pp. 145-163. ISBN: 9780521558945. \[Preview with {{% resource_link "6b7ce332-9eca-4603-baa4-d09c25df126b" "Google Books" %}}\]
 
 \[PD\] "A Place for Everything: The Classification of the World." Pp. 39-67.
 
@@ -148,13 +148,13 @@ Evolution and the origin of species
 
 ### *Required*
 
-Darwin, Charles. "Introduction," "Struggle for Existence," and "Recapitulation and Conclusion." In *The Origin of Species*. 1st ed. 1859. ISBN: 9780451529060. ([PDF](https://old.ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/readings/MITSTS_003F10_read08_darw.pdf))
+Darwin, Charles. "Introduction," "Struggle for Existence," and "Recapitulation and Conclusion." In *The Origin of Species*. 1st ed. 1859. ISBN: 9780451529060. ({{% resource_link "90c045ea-73c5-4b11-b7e2-fed90541abe0" "PDF" %}})
 
 \[PD\] "Design and Disorder: The Origin of Species." Pp. 91-114.
 
 ### *Suggested*
 
-Bowler, Peter. "The Idea of Evolution: Its Scope and Limitations." *Evolution: The History of An Idea*. University of California Press, 1989, pp. 1-23. ISBN: 9780520063860. \[Preview with [Google Books](http://books.google.com/books?id=e2b5B0po8fwC&lpg=PP1&pg=PA1#v=onepage&q&f=false)\]
+Bowler, Peter. "The Idea of Evolution: Its Scope and Limitations." *Evolution: The History of An Idea*. University of California Press, 1989, pp. 1-23. ISBN: 9780520063860. \[Preview with {{% resource_link "f6267287-f8b8-4883-9e05-3e6fc505ccc5" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -170,17 +170,17 @@ Oreskes, Naomi, and Erik M. Conway. "Challenging Knowledge: How Climate Change S
 
 Forbes, Stephen A. "The Lake as Microcosm" \[1887\]. In *Foundations of Ecology: Classic Papers with Commentaries*. Edited by Leslie A. Real, and James H. Brown. University of Chicago Press, 1991, pp. 17-27. ISBN: 9780226705941.
 
-Kingsland, Sharon. "Prologue: The Entangled Bank." *Modeling Nature: Episodes in the History of Population Ecology*. University of Chicago Press, 1995, pp. 9-24. ISBN: 9780226437286. \[Preview with [Google Books](http://books.google.com/books?id=OYcLJ_UhsKwC&lpg=PP1&pg=PA9#v=onepage&q&f=false)\]
+Kingsland, Sharon. "Prologue: The Entangled Bank." *Modeling Nature: Episodes in the History of Population Ecology*. University of Chicago Press, 1995, pp. 9-24. ISBN: 9780226437286. \[Preview with {{% resource_link "dae23a06-b0ae-4a71-94ca-8c8fbdc01ee6" "Google Books" %}}\]
 
-Worster, Donald. "Words on a Map." *Nature's Economy: A History of Ecological Ideas*. 2nd ed. Cambridge University Press, 1994, pp. 191-220. ISBN: 9780521468343. \[Preview with [Google Books](http://books.google.com/books?id=2Ng-5B5H2wcC&lpg=PP1&pg=PA191#v=onepage&q&f=false)\]
+Worster, Donald. "Words on a Map." *Nature's Economy: A History of Ecological Ideas*. 2nd ed. Cambridge University Press, 1994, pp. 191-220. ISBN: 9780521468343. \[Preview with {{% resource_link "c720047c-0ec5-4443-b086-bae525c915c4" "Google Books" %}}\]
 
 Global warming politics in the news — descriptions of scientists organizing to take on their critics:
 
-Banerjee, Neela. "[Climate Scientists Plan Campaign Against Global Warming Skeptics](http://articles.latimes.com/2010/nov/08/nation/la-na-climate-scientists-20101108)." *Los Angeles Times*, November 8, 2010.
+Banerjee, Neela. "{{% resource_link "44717492-d6c9-49d7-8c94-e4b74da568ac" "Climate Scientists Plan Campaign Against Global Warming Skeptics" %}}." *Los Angeles Times*, November 8, 2010.
 
 Freedman, Andrew. "Scientists Launch Climate Science Counterattacks." *Washington Post*, November 8, 2010.
 
-Revkin, Andrew C. "[Scientists Join Forces in a Hostile Climate](http://dotearth.blogs.nytimes.com/2010/11/07/scientists-join-forces-in-a-hostile-climate/?scp=1&sq=American%20Geophysical%20Union&st=cse)." *New York Times*, November 7, 2010.
+Revkin, Andrew C. "{{% resource_link "54a5e9ae-6a77-462c-968c-1a2c367ed4d6" "Scientists Join Forces in a Hostile Climate" %}}." *New York Times*, November 7, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **3\. Motion**
@@ -192,7 +192,7 @@ From "natural motions" to "laws of motion"
 
 ### *Required*
 
-Aristotle. Book III, parts 1-3 in *Physics*. Translated by R. P. Hardie, and R. K. Gaye. ([PDF](https://old.ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/readings/MITSTS_003F10_read10_aris.pdf))
+Aristotle. Book III, parts 1-3 in *Physics*. Translated by R. P. Hardie, and R. K. Gaye. ({{% resource_link "83e9f16c-8fd5-4810-b5a1-21ad1597bffc" "PDF" %}})
 
 Newton, Isaac. Selections from *The Mathematical Principles of Natural Philosophy* \[1687\], in *Newton Texts, Backgrounds, Commentaries*. Edited by I. Bernard Cohen, and Richard S. Westfall. W. W. Norton & Co., 1995, pp. 221-246. ISBN: 9780393959024.
 
@@ -200,7 +200,7 @@ Newton, Isaac. Selections from *The Mathematical Principles of Natural Philosoph
 
 ### *Suggested*
 
-Cohen, I. Bernard. "Newton's Concepts of Force and Mass, with Notes on the Laws of Motion." In *The Cambridge Companion to Newton*. Edited by I. Bernard Cohen, and George E. Smith. Cambridge University Press, 2002, pp. 57-84. ISBN: 9780521656962. \[Preview with [Google Books](http://books.google.com/books?id=3wIzvqzfUXkC&lpg=PP1&pg=PA57#v=onepage&q&f=false)\]
+Cohen, I. Bernard. "Newton's Concepts of Force and Mass, with Notes on the Laws of Motion." In *The Cambridge Companion to Newton*. Edited by I. Bernard Cohen, and George E. Smith. Cambridge University Press, 2002, pp. 57-84. ISBN: 9780521656962. \[Preview with {{% resource_link "ad9d84da-74e8-4379-86d3-5d61387d15b9" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -210,9 +210,9 @@ Beer brewing, steam engines, and the fate of the cosmos
 
 ### *Required*
 
-Joule, James. "The Mechanical Equivalent of Heat." In G*reat Experiments in Physics* \[1959\]. Edited by Morris H. Shamos. Dover Publications, 1987, pp. 166-183. ISBN: 9780486253466. \[Preview with [Google Books](http://books.google.com/books?id=NwkXXyXmQdcC&lpg=PP1&pg=PA166#v=onepage&q&f=false)\]
+Joule, James. "The Mechanical Equivalent of Heat." In G*reat Experiments in Physics* \[1959\]. Edited by Morris H. Shamos. Dover Publications, 1987, pp. 166-183. ISBN: 9780486253466. \[Preview with {{% resource_link "92b2b254-778f-4d59-a182-0110c41af3f6" "Google Books" %}}\]
 
-Bowler, Peter J., and Iwan Rhys Morus. "The Conservation of Energy." *Making Modern Science: A Historical Survey*. University of Chicago Press, 2005, pp. 79-102. ISBN: 9780226068619. \[Preview with [Google Books](http://books.google.com/books?id=t4qX37A4PVwC&lpg=PP1&pg=PA79#v=onepage&q&f=false)\]
+Bowler, Peter J., and Iwan Rhys Morus. "The Conservation of Energy." *Making Modern Science: A Historical Survey*. University of Chicago Press, 2005, pp. 79-102. ISBN: 9780226068619. \[Preview with {{% resource_link "5fb47162-3ead-46b4-8e16-cdf799ef4ec6" "Google Books" %}}\]
 
 ### *Suggested*
 
@@ -226,13 +226,13 @@ Space, time, and spacetime
 
 ### *Required*
 
-Einstein, Albert. Introduction, sections 1.1 and 1.2 in "On the Electrodynamics of Moving Bodies." \[1905\]. Translated by Arthur I. Miller. In *Albert Einstein's Special Theory of Relativity: Emergence (1905) and Interpretation (1905-1911)*. Addison-Wesley, 1997, pp. 392-396. ISBN: 9780387948706. \[[Alternate translation, complete text](http://www.fourmilab.ch/etexts/einstein/specrel/www/)\]
+Einstein, Albert. Introduction, sections 1.1 and 1.2 in "On the Electrodynamics of Moving Bodies." \[1905\]. Translated by Arthur I. Miller. In *Albert Einstein's Special Theory of Relativity: Emergence (1905) and Interpretation (1905-1911)*. Addison-Wesley, 1997, pp. 392-396. ISBN: 9780387948706. \[{{% resource_link "b9085c2c-6a80-4628-b267-23da7fb51cef" "Alternate translation, complete text" %}}\]
 
-Eisenstaedt, Jean. "Light and the Structure of Space-Time." *The Curious History of Relativity*. Translated by Arturo Sangalli. Princeton University Press, 2006, pp. 24-57. ISBN: 9780691118659. \[Preview with [Google Books](http://books.google.com/books?id=d2bnXTOtCD8C&lpg=PP1&pg=PA24#v=onepage&q&f=false)\]
+Eisenstaedt, Jean. "Light and the Structure of Space-Time." *The Curious History of Relativity*. Translated by Arturo Sangalli. Princeton University Press, 2006, pp. 24-57. ISBN: 9780691118659. \[Preview with {{% resource_link "d156d68b-4801-4fb4-a0d4-f563e26c89f6" "Google Books" %}}\]
 
 ### *Suggested*
 
-Galison, Peter. "Einstein's Clocks: The Place of Time." *Critical Inquiry* 26, no. 2 (2000): 355-389. \[[Excerpt](http://www.jstor.org/pss/1344127)\]
+Galison, Peter. "Einstein's Clocks: The Place of Time." *Critical Inquiry* 26, no. 2 (2000): 355-389. \[{{% resource_link "51be5a6d-8cd1-4d37-bf70-bad26600069b" "Excerpt" %}}\]
 
 Galison, Peter, and David Kaiser. "Special Relativity Primer." 2nd ed. Unpublished manuscript, 2006.
 
@@ -246,19 +246,19 @@ Blood, guts and images
 
 ### *Required*
 
-Vesalius, Andreas. "Preface to *On the Fabric of the Human Body*" \[1543\]. In Charles D. O'Malley, *Andreas Vesalius of Brussels*, *1514-64*. University of California Press, 1964, pp. 316-24. \[also [Alternate translation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2184035/) of Preface, from *Proceedings of the Royal Society of Medicine* 25, no. 9 (1932): 1357-1366.\]
+Vesalius, Andreas. "Preface to *On the Fabric of the Human Body*" \[1543\]. In Charles D. O'Malley, *Andreas Vesalius of Brussels*, *1514-64*. University of California Press, 1964, pp. 316-24. \[also {{% resource_link "573435f8-7684-41d5-b1cb-ee2fc050c596" "Alternate translation" %}} of Preface, from *Proceedings of the Royal Society of Medicine* 25, no. 9 (1932): 1357-1366.\]
 
 Porter, Roy. "The Body." In *Blood and Guts: A Short History*. W. W. Norton & Co., 2004, pp. 53-75. ISBN: 9780393325690.
 
-Hersovitch, Penny. "[Rest in Plastic: Review of 'Body Worlds, The Anatomical Exhibition of Real Human Bodies' by Gunther von Hagens](http://www.sciencemag.org/content/299/5608/828.1)." *Science* 299 (February 7, 2003): 828.
+Hersovitch, Penny. "{{% resource_link "f481588d-021c-43ea-8416-2af23b010f0a" "Rest in Plastic: Review of 'Body Worlds, The Anatomical Exhibition of Real Human Bodies' by Gunther von Hagens" %}}." *Science* 299 (February 7, 2003): 828.
 
-Smith, Orla. "[Anantomy: The Art of the Oldest Science](http://www.sciencemag.org/content/299/5608/829.1)." *Science* 299 (February 7, 2003): 829.
+Smith, Orla. "{{% resource_link "39dc8043-9486-44ed-9ce8-54d3456ecbc9" "Anantomy: The Art of the Oldest Science" %}}." *Science* 299 (February 7, 2003): 829.
 
 ### *Suggested*
 
 Park, Katharine. "The Criminal and the Saintly Body: Autopsy and Dissection in Renaissance Italy." In *The Renaissance: Italy and Abroad, Rewriting Histories*. Edited by J. J. Martin. Routledge, 2002, pp. 224-252. ISBN: 9780415260626.
 
-Vesalius, Andreas. Online facsimile edition of [*On the Fabric of the Human Body*](http://www.historyofscience.com/norman-publishing/anatomy/vesalius-interview-199807.php). US National Library of Medicine.
+Vesalius, Andreas. Online facsimile edition of {{% resource_link "9d8a459f-6234-40ac-908d-d85868d09dcb" "*On the Fabric of the Human Body*" %}}. US National Library of Medicine.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -268,7 +268,7 @@ Cell theory
 
 ### *Required*
 
-Hooke, Robert. "Of the Schematisme or Texture of Cork…" In *Micrographia: Some Physiological Descriptions of Minute Bodies*. BiblioBazaar, 2007. ISBN: 9781426486760. ([PDF](https://old.ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/readings/MITSTS_003F10_read14_hooke.pdf))
+Hooke, Robert. "Of the Schematisme or Texture of Cork…" In *Micrographia: Some Physiological Descriptions of Minute Bodies*. BiblioBazaar, 2007. ISBN: 9781426486760. ({{% resource_link "401ad0de-1e0d-4468-9964-7a2151bd9305" "PDF" %}})
 
 Schwann, Theodor. Excerpts from *Microscopical Researches into the Accordance in the Structure and Growth of Animals and Plants* \[1839\]. London, UK: The Sydenham Society, 1847, pp. ix-xviii, 36-40, and skim 41-64. ISBN: 9781149465820.
 
@@ -276,9 +276,9 @@ Hall, Thomas S. "'The Cell' through Schwann 1800-1840." *Ideas of Life and Matte
 
 ### *Suggested*
 
-William, Coleman. "Form: Cell Theory." In Coleman, *Biology in the Nineteenth Century*. 2nd ed. John Wiley and Sons, 1978, pp. 16-35. ISBN: 9780521292931. \[Preview with [Google Books](http://books.google.com/books?id=QeSnZ4lxNYEC&lpg=PP1&pg=PA16#v=onepage&q&f=false)\]
+William, Coleman. "Form: Cell Theory." In Coleman, *Biology in the Nineteenth Century*. 2nd ed. John Wiley and Sons, 1978, pp. 16-35. ISBN: 9780521292931. \[Preview with {{% resource_link "c7533695-bfac-4400-b849-98a8589428f0" "Google Books" %}}\]
 
-Hooke, Robert. Online facsimile edition of [*Micrographia*](https://www.nlm.nih.gov/exhibition/hooke/micrographia.html). US National Library of Medicine.
+Hooke, Robert. Online facsimile edition of {{% resource_link "d0538e0f-dfaa-4dc2-905c-8d3c8416a721" "*Micrographia*" %}}. US National Library of Medicine.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -288,15 +288,15 @@ Physiology and experiment
 
 ### *Required*
 
-Bernard, Claude. "Experimental Reasoning: Observation and Experiment," and "Experimental Considerations Common to Living Things and Inorganic Bodies." In *An Introduction to the Study of Experimental Medicine* \[1865\]. Translated by Henry Copley Greene. Dover Publications, 1957, pp. 5-10 and 59-87. ISBN: 9780486204000. \[Preview with [Google Books](http://books.google.com/books?id=MIx8D61JlboC&lpg=PP1&pg=PA5#v=onepage&q&f=false)\]
+Bernard, Claude. "Experimental Reasoning: Observation and Experiment," and "Experimental Considerations Common to Living Things and Inorganic Bodies." In *An Introduction to the Study of Experimental Medicine* \[1865\]. Translated by Henry Copley Greene. Dover Publications, 1957, pp. 5-10 and 59-87. ISBN: 9780486204000. \[Preview with {{% resource_link "e001e791-33b8-4023-b8d6-e38b8f238f7a" "Google Books" %}}\]
 
-Marey, Etienne-Jules. "The Graphic Method in the Experimental Sciences." *British Medical Journa*l 1, no. 783 (January 1, 1876): 1-3. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif)[PDF](https://old.ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/readings/MITSTS_003F10_read15_marey.pdf))
+Marey, Etienne-Jules. "The Graphic Method in the Experimental Sciences." *British Medical Journa*l 1, no. 783 (January 1, 1876): 1-3. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif){{% resource_link "be98be1c-27ac-41dc-9ec5-f3047c26007b" "PDF" %}})
 
-Mendelsohn, Everett. "[Physical Models and Physiological Concepts: Explanation in 19th Century Biology](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=2902240)." *British Journal for the History of Science* 2 (1965): 201-219.
+Mendelsohn, Everett. "{{% resource_link "98d6df69-bdb8-415a-8594-65a06ef16e03" "Physical Models and Physiological Concepts: Explanation in 19th Century Biology" %}}." *British Journal for the History of Science* 2 (1965): 201-219.
 
 ### *Suggested*
 
-Homes, F. Larry. "[The Old Martyr of Science: The Frog in Experimental Physiology](https://www.semanticscholar.org/paper/The-old-martyr-of-science%3A-The-frog-in-experimental-Holmes/3d074d690c03206cf0986811319658c2526fd701)." *Journal of the History of Biology* 26, no. 2 (1993): 311-328.
+Homes, F. Larry. "{{% resource_link "bd142ec8-a7e3-420e-8135-8b9dad169cab" "The Old Martyr of Science: The Frog in Experimental Physiology" %}}." *Journal of the History of Biology* 26, no. 2 (1993): 311-328.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -306,15 +306,15 @@ Models of inheritance and genetics
 
 ### *Required*
 
-Watson, James, and Francis Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (1953): 737–739. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, James, and Francis Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (1953): 737–739. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif){{% resource_link "6dc9faf0-94d1-47ad-988c-c6de4f086c79" "PDF" %}})
 
-Frankin, Rosalind, and R. G. Gosling. "Molecular Configuration in Sodium Thymonucleate." *Nature* 171 (1953): 740–741. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
+Frankin, Rosalind, and R. G. Gosling. "Molecular Configuration in Sodium Thymonucleate." *Nature* 171 (1953): 740–741. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif){{% resource_link "64fcb441-e6cc-49cd-b6c7-8a147f28ccaf" "PDF" %}})
 
-Bowler, Peter J., and Iwan Rhys Morus. "Genetics." In *Making Modern Science: A Historical Survey*. University of Chicago Press, 2005, pp. 189-212. ISBN: 9780226068619. \[Preview with [Google Books](http://books.google.com/books?id=t4qX37A4PVwC&lpg=PP1&pg=PA189#v=onepage&q&f=false)\]
+Bowler, Peter J., and Iwan Rhys Morus. "Genetics." In *Making Modern Science: A Historical Survey*. University of Chicago Press, 2005, pp. 189-212. ISBN: 9780226068619. \[Preview with {{% resource_link "c4698a92-c2c3-467c-a0a4-8de7a683edcb" "Google Books" %}}\]
 
 ### *Suggested*
 
-Chadarevian, Soraya de. "[Portrait of a Discovery: Watson, Crick and the Double Helix](http://dx.doi.org/10.1086/376100)." *Isis* 94 (2003): 90-105.
+Chadarevian, Soraya de. "{{% resource_link "5833fb0c-f3f7-4ac1-b335-6080fd7e5373" "Portrait of a Discovery: Watson, Crick and the Double Helix" %}}." *Isis* 94 (2003): 90-105.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **5\. Heavens**
@@ -330,11 +330,11 @@ Ptolemy. Excerpts (Book I: 1-10 and Book III: 3) from *The Almagest*. Translated
 
 *Nasir al-din al-Tusi. Memoir on Astronomy*. Vol. 1. Translated by F. J. Ragep. Springer, 1993, pp. 194-204, 212-214, and 222 (even-numbered pages only). ISBN: 9780387940519.
 
-\[DL\] "Early Greek Astronomy," "Cosmological Developments," and "Hellenistic Planetary Astronomy." Pp. 85-105. \[Preview with [Google Books](http://books.google.com/books?id=dPUBAkIm2lUC&lpg=PP1&pg=PA85#v=onepage&q&f=false)\]
+\[DL\] "Early Greek Astronomy," "Cosmological Developments," and "Hellenistic Planetary Astronomy." Pp. 85-105. \[Preview with {{% resource_link "b78c9a1b-1625-4dbb-a216-43ddb13d04cd" "Google Books" %}}\]
 
 ### *Suggested*
 
-Ragep, F. Jamil. "[Copernicus and His Islamic Predecessors: Some Historical Remarks](http://adsabs.harvard.edu/full/2007HisSc..45…65R)." *History of Science* 45 (2007): 65-81.
+Ragep, F. Jamil. "{{% resource_link "81db80d0-7ae6-45e9-b226-a3ccb2a7fb63" "Copernicus and His Islamic Predecessors: Some Historical Remarks" %}}." *History of Science* 45 (2007): 65-81.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -348,7 +348,7 @@ Copernicus, Nicolas. Introductions and prefaces, Book I, chapters 1-4 and 10, an
 
 Kepler, Johannes. "Preface." In *Mysterium Cosmographicum* \[1596\]. Translated by A. M. Duncan. Arabis, 1981, pp. 62-73. ISBN: 9780913870648.
 
-Lerner, Michel-Pierre, and Jean-Pierre Verdet. "Copernicus." In *Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives*. Translated by James Evans, edited by Norriss Hetherington. Garland, 1993, pp. 147-173. ISBN: 9780815309345. \[Preview with [Google Books](http://books.google.com/books?id=8lGNQMUTr0gC&lpg=PP1&pg=PA147#v=onepage&q&f=false)\]
+Lerner, Michel-Pierre, and Jean-Pierre Verdet. "Copernicus." In *Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives*. Translated by James Evans, edited by Norriss Hetherington. Garland, 1993, pp. 147-173. ISBN: 9780815309345. \[Preview with {{% resource_link "5441b82c-69e8-456f-9564-c1d3c357aef7" "Google Books" %}}\]
 
 ### *Suggested*
 
@@ -368,7 +368,7 @@ Kragh, Helge. "Newton's Inifinite Universe," and "Enlightenment Cosmologies." In
 
 ### *Suggested*
 
-Hahn, Roger. "Laplace and the Mechanistic Universe." In *God and Nature: Historical Essays on the Encounter between Christianity and Science*. Edited by David Lindberg, and Ronald Numbers. University of California Press, 1986, pp. 256-276. ISBN: 9780520056923. \[Preview with [Google Books](http://books.google.com/books?id=hs2edDIGCqEC&lpg=PP1&pg=PA256#v=onepage&q&f=false)\]
+Hahn, Roger. "Laplace and the Mechanistic Universe." In *God and Nature: Historical Essays on the Encounter between Christianity and Science*. Edited by David Lindberg, and Ronald Numbers. University of California Press, 1986, pp. 256-276. ISBN: 9780520056923. \[Preview with {{% resource_link "0b489ec8-0e70-4cf7-97b5-e13dff5dc8b1" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -378,11 +378,11 @@ Einstein, gravity, and politics
 
 ### *Required*
 
-Einstein, Albert. "What is the Theory of Relativity?" \[Written at the request of The London Times, published November 28, 1919\]. In *Einstein: Ideas and Opinions*. Random House, 1995. ISBN: 9780517884409. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif)[PDF](http://www.google.com/url?sa=t&source=web&cd=2&ved=0CCAQFjAB&url=http%3A%2F%2Fwww.thiruvarunai.com%2FeBooks%2Feinstein%2FAlbert%2520Einstein%2520-%2520What%2520Is%2520The%2520Theory%2520Of%2520Relativity.PDF&rct=j&q=What%20is%20the%20Theory%20of%20Relativity%20london%20times&ei=7IvuTZTkBKr10gGYuYDfAw&usg=AFQjCNFU8esweNWQKwn2l5K13Ti4ZkdDsw&sig2=uOpDRcqbw6oyLBQQ75zylQ&cad=rja))
+Einstein, Albert. "What is the Theory of Relativity?" \[Written at the request of The London Times, published November 28, 1919\]. In *Einstein: Ideas and Opinions*. Random House, 1995. ISBN: 9780517884409. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif){{% resource_link "cc7b7da8-dcd9-4408-9830-68a7a3f8ab99" "PDF" %}})
 
 ### *Suggested*
 
-Graham, Loren. "[Do Mathematical Equations Display Social Attributes](https://link.springer.com/article/10.1007%2FBF03025279)?" *Mathematical Intelligencer* 22 (2000): 31-36.
+Graham, Loren. "{{% resource_link "5ced2727-3d65-43be-818c-345a801d21a2" "Do Mathematical Equations Display Social Attributes" %}}?" *Mathematical Intelligencer* 22 (2000): 31-36.
 
 Kaiser, David. "General Relativity Primer: Or, How I Learned to Stop Worrying and Love Curved Spacetime." 2nd ed., unpublished manuscript, 2006.
 
@@ -396,7 +396,7 @@ Mind-body
 
 ### *Required*
 
-Descartes, René. Meditations I & II in "*Meditations on First Philosophy*." In *Descartes: Selected Philosophical Writings.* Vol. I. Translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge University Press, 1988, pp. 76-86. ISBN: 9780521358125. \[Preview with [Google Books](http://books.google.com/books?id=6tNxSphqAYkC&lpg=PP1&pg=PA76#v=onepage&q&f=false)\] \[Alternate translation by John Veitch (1901)\]
+Descartes, René. Meditations I & II in "*Meditations on First Philosophy*." In *Descartes: Selected Philosophical Writings.* Vol. I. Translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge University Press, 1988, pp. 76-86. ISBN: 9780521358125. \[Preview with {{% resource_link "7168fc67-c0ec-49db-b7e0-5cafa8a17f3e" "Google Books" %}}\] \[Alternate translation by John Veitch (1901)\]
 
 Offray de La Mettrie, Julien. Chapters II – VI in "Natural History of the Soul" \[1745\]. In *Man A Machine*. Translated by Gertrude C. Bussey, and M. W. Calkins. Open Court Publishing, 1912, pp. 153-161. ISBN: 9781151057761.
 
@@ -412,7 +412,7 @@ Madness
 
 ### *Required*
 
-Freud, Sigmund. [*Five Lectures on Psycho-Analysis*](https://www.rasch.org/over.htm). Edited by James Strachey. W.W. Norton & Co., 1990, pp. 5-62. ISBN: 9780393008470.
+Freud, Sigmund. {{% resource_link "0345906a-2c82-4d6e-9a28-3ee6707ab8eb" "*Five Lectures on Psycho-Analysis*" %}}. Edited by James Strachey. W.W. Norton & Co., 1990, pp. 5-62. ISBN: 9780393008470.
 
 Metzl, Jonathan M. "Voyeur Nation? Changing Definitions of Voyeurism, 1950-2004." *Harvard Review of Psychiatry* 12 (2004): 127-131.
 
@@ -428,15 +428,15 @@ Brains in the lab: Experimental psychology
 
 ### *Required*
 
-Münsterberg, Hugo. "[The New Psychology and Harvard's Equipment for Teaching It](http://vlp.mpiwg-berlin.mpg.de/library/data/lit8141)." *Harvard Graduate Magazine* 1, no. 2 (1893): 201-209.
+Münsterberg, Hugo. "{{% resource_link "e945e966-5374-469a-9844-4fbd90246449" "The New Psychology and Harvard's Equipment for Teaching It" %}}." *Harvard Graduate Magazine* 1, no. 2 (1893): 201-209.
 
 ———. "Psychological Explanation." Part I, chapter III in *Psychology: General and Applied*. D. Appleton and Company, 1914, pp. 21-43.
 
 Suggested
 
-Danziger, Kurt. "Historical Roots of The Psychological Laboratory." *Constructing the Subject: Historical Origins of Psychological Research*. University of Chicago Press, 1994, pp. 17-33. ISBN: 9780521467858. \[Preview with [Google Books](http://books.google.com/books?id=c9XuIXsn-X8C&lpg=PP1&pg=PA17#v=onepage&q&f=false)\]
+Danziger, Kurt. "Historical Roots of The Psychological Laboratory." *Constructing the Subject: Historical Origins of Psychological Research*. University of Chicago Press, 1994, pp. 17-33. ISBN: 9780521467858. \[Preview with {{% resource_link "6a00255b-3239-47b5-a511-2ac62a7b5b7b" "Google Books" %}}\]
 
-Nichols, Herbert. "[The Psychological Laboratory at Harvard](http://vlp.mpiwg-berlin.mpg.de/library/data/lit6657)." *McClure's Magazine*, 1893, 399-409.
+Nichols, Herbert. "{{% resource_link "3b45d6d2-627a-4a89-8233-32b82baf5a99" "The Psychological Laboratory at Harvard" %}}." *McClure's Magazine*, 1893, 399-409.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -446,11 +446,11 @@ Man-machine
 
 ### *Required*
 
-[![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262562065) Mazlish, Bruce. "The Man-Machine and Artificial Intelligence." In [*Mechanical Bodies, Computational Minds*](https://mitpress.mit.edu/9780262562065). Edited by Stefano Franchi, and Guven Guzeldere. MIT Press, 2005, pp. 175-201. ISBN: 9780262562065. \[Preview with [Google Books](http://books.google.com/books?id=a9xJg9efi98C&lpg=PP1&pg=PA175#v=onepage&q&f=false)\]
+{{% resource_link "451f5c20-d09b-4526-aea9-c01d3a7fe5d8" "![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)" %}} Mazlish, Bruce. "The Man-Machine and Artificial Intelligence." In {{% resource_link "451f5c20-d09b-4526-aea9-c01d3a7fe5d8" "*Mechanical Bodies, Computational Minds*" %}}. Edited by Stefano Franchi, and Guven Guzeldere. MIT Press, 2005, pp. 175-201. ISBN: 9780262562065. \[Preview with {{% resource_link "deed9e10-2370-492c-8bf2-1a54b89e13f2" "Google Books" %}}\]
 
 ### *Suggested*
 
-Turing, A. M. "[Computing Machinery and Intelligence](http://mind.oxfordjournals.org/content/LIX/236/433)." *Mind* 59 (1950): 433-460.
+Turing, A. M. "{{% resource_link "abc21d5b-3bda-46da-8cfc-9520901dd4c0" "Computing Machinery and Intelligence" %}}." *Mind* 59 (1950): 433-460.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
