@@ -4,8 +4,6 @@ description: This resource contains information related to mind body.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/c1d02c0b6bd6142439d29df5e797d430_MITSTS_003F10_lec21.pdf
 file_size: 9465720
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

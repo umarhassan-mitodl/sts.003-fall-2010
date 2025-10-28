@@ -5,8 +5,6 @@ description: This resource contains information related to models of inheritance
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/3b5ef61eb84497f51e7b20c8b358e296_MITSTS_003F10_lec16.pdf
 file_size: 4163550
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

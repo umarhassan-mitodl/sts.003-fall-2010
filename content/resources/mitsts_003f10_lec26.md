@@ -4,8 +4,6 @@ description: This resource contains information related to conclusion.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/0a3092a7f0a0a645bc8b1d9702596a00_MITSTS_003F10_lec26.pdf
 file_size: 68737
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

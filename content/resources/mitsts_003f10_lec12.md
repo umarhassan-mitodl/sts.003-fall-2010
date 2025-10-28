@@ -4,8 +4,6 @@ description: 'This resource contains information related to space, time and spac
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/06d7b3d3703ccf5ebfdb674f44e8d66d_MITSTS_003F10_lec12.pdf
 file_size: 2590643
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

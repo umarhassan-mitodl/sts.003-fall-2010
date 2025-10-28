@@ -5,8 +5,6 @@ description: This resource contains information related to textbooks and chemica
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/71020b244ccd51c96050d3c74a5507dd_MITSTS_003F10_lec04.pdf
 file_size: 3204658
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

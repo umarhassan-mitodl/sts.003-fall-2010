@@ -4,8 +4,6 @@ description: This resource contains information related to human body.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/f38dea614e762cbd033a54f5ef271ca9_MITSTS_003F10_assn4_b1.pdf
 file_size: 464770
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

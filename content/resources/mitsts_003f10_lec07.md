@@ -5,8 +5,6 @@ description: This resource contains information related to exploring, collecting
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/31e65c8dbc57e2faecf6af4e1a60a27f_MITSTS_003F10_lec07.pdf
 file_size: 6599416
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +25,7 @@ _Involving Gunther von Hagens's controversial exhibition, Body Worlds_
 
 **Grade**: Your grade on the Final Paper will contribute 35% of your final course grade.
 
-_Body Worlds: The Anatomical Exhibition of Real Human Bodies_ is an exhibition of "plastinated" human bodies, composed by the German anatomist Gunther von Hagens. Hagens creates his specimens using a technique he invented in 1977 for turning human body parts into plastic. Many of you may have seen _Body Worlds_ in one of its many incarnations. If you have not seen it "in the flesh," you have probably seen the newspaper ads, billboards or placement as scenery in James Bond movies. Since it first opened in 1995 in Tokyo, between twenty-five and thirty million people have attended _Body Worlds: The Anatomical Exhibition of Real Human Bodies_. The exhibition traveled to England in 2002, where it first encountered major criticisms on scientific, ethical, and aesthetic grounds. It has since traveled all over Europe, Asia, and North America, along with the advertising billboards with catchy slogans. For documentation see [www.bodyworlds.com](https://bodyworlds.com/).
+_Body Worlds: The Anatomical Exhibition of Real Human Bodies_ is an exhibition of "plastinated" human bodies, composed by the German anatomist Gunther von Hagens. Hagens creates his specimens using a technique he invented in 1977 for turning human body parts into plastic. Many of you may have seen _Body Worlds_ in one of its many incarnations. If you have not seen it "in the flesh," you have probably seen the newspaper ads, billboards or placement as scenery in James Bond movies. Since it first opened in 1995 in Tokyo, between twenty-five and thirty million people have attended _Body Worlds: The Anatomical Exhibition of Real Human Bodies_. The exhibition traveled to England in 2002, where it first encountered major criticisms on scientific, ethical, and aesthetic grounds. It has since traveled all over Europe, Asia, and North America, along with the advertising billboards with catchy slogans. For documentation see {{% resource_link "da3e12e5-7cd6-43ca-b401-17396fa52266" "www.bodyworlds.com" %}}.
 
 The Boston Museum of Science, for example, hosted _Body Worlds: The Anatomical Exhibition of Real Human Bodies_ from 2006 to 2007, and the city was ablaze with ads the whole time. In the show, "real" human specimens, including whole-body plastinates, individual organs, organ configurations, and transparent body slices are arranged in gigantic exhibition halls; at the exit, visitors are requested to donate their bodies, _post-mortem_, to the project. In Boston, as throughout the world, the show met with huge successes and also huge controversies. Is this science or spectacle? Is this pedagogically useful or morally suspect?
 
@@ -43,11 +41,11 @@ In the written portion of this assignment, you should use standard footnote conv
 
 Hagens, G. von. "Plastinated Specimens and Plastination." and "On Gruesome Corpses, Gestalt Plastinates and Mandatory Interment." In _Body Worlds: The Anatomical Exhibition of Real Human Bodies_. Edited by Gunther von Hagens, and Angelina Whalley, translated by Francis Kelly. Heidelberg: Institut für Plastination, 2004, pp. 20-37 and 260-282.
 
-———. "No Skeletons in the Closet – Facts, Background and Conclusions: A Response to the Alleged Corpse Scandals in Novosibirsk, Russia, and Bishkek, Kyrgizstan, Associated with the _Body_ _Worlds_ Exhibition." Public statement, distributed online 17 November 2003. ([PDF](http://studylib.net/doc/13644599/no-skeletons-in-the-closet-%E2%80%94-facts--background-and-conclu...)).
+———. "No Skeletons in the Closet – Facts, Background and Conclusions: A Response to the Alleged Corpse Scandals in Novosibirsk, Russia, and Bishkek, Kyrgizstan, Associated with the _Body_ _Worlds_ Exhibition." Public statement, distributed online 17 November 2003. ({{% resource_link "51dc0736-83e5-400a-bdfe-d3d5e9da1426" "PDF" %}}).
 
 Harvey, W. "Proeme and Introductory Chapters of _De Motu Cordis_" \[1628\]. In _The Anatomical Exercises in English Translation_. Dover, 1995, pp. 1-23. ISBN: 9780486688275.
 
-Vesalius, A. "Preface to _On the Fabric of the Human Body_" and "Book 5: The Best Method for Conducting the Anatomy" \[1543\]. In Charles D. O'Malley, _Andreas Vesalius of Brussels, 1514-64_.University of California Press, 1964, pp. 317-324 and 342-360 \[Preview with [Google Books](http://books.google.com/books?id=HCA6wGaU8PUC&lpg=PP1&pg=PA317#v=onepage&q&f=false)\]
+Vesalius, A. "Preface to _On the Fabric of the Human Body_" and "Book 5: The Best Method for Conducting the Anatomy" \[1543\]. In Charles D. O'Malley, _Andreas Vesalius of Brussels, 1514-64_.University of California Press, 1964, pp. 317-324 and 342-360 \[Preview with {{% resource_link "d0eec8f9-ea89-4a62-97f3-b54f0a08e4a0" "Google Books" %}}\]
 
 Vesalius, A., J. B. Saunders, and C. D. O'Malley "Title Pages to the 1st Edition of 'De Humani Corporis Fabrica', 1543, and 2nd edition, 1555. In _Vesalius: The Illustrations from His Works_. The World Publishing Company, 1950, pp. 42-45.
 

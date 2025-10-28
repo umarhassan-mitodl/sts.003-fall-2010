@@ -4,8 +4,6 @@ description: This resource contains information related to einstein's gravity.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/0f2113808d86bd58ccaf582d1671d70a_MITSTS_003F10_lec20.pdf
 file_size: 2162293
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, assignments, peer response groups, grading, reading assignments,
   and the schedule of lecture topics, instructors, and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +22,7 @@ This subject introduces the history of science from antiquity to the present. St
 Assignments
 -----------
 
-As a [HASS-D](http://web.mit.edu/hassreq/) (Humanities Arts and Social Sciences – Distribution) and [CI-H](http://web.mit.edu/commreq/) (Communication Intensive – Humanities) subject, there will be a strong emphasis upon reading and writing. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. Students will also be required to revise and resubmit one of their papers, to give them an opportunity to work on specific writing skills in anticipation of the final paper.
+As a {{% resource_link "8a14251e-1cf2-4887-83a2-849fb102bdf8" "HASS-D" %}} (Humanities Arts and Social Sciences – Distribution) and {{% resource_link "c7ae8c5e-dfb1-4aef-a67b-6737f0bb7cb8" "CI-H" %}} (Communication Intensive – Humanities) subject, there will be a strong emphasis upon reading and writing. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. Students will also be required to revise and resubmit one of their papers, to give them an opportunity to work on specific writing skills in anticipation of the final paper.
 
 Peer Response Groups
 --------------------
@@ -109,9 +107,9 @@ Reading Assignments
 
 Two books are required:
 
-Lindberg, David C. _The Beginnings of Western Science_. 2nd ed. University of Chicago Press, 2008. ISBN: 9780226482057. \[Preview with [Google Books](http://books.google.com/books?id=dPUBAkIm2lUC&printsec=frontcover#v=onepage&q&f=false)\]
+Lindberg, David C. _The Beginnings of Western Science_. 2nd ed. University of Chicago Press, 2008. ISBN: 9780226482057. \[Preview with {{% resource_link "53240a91-bf54-461f-919d-e6327f332567" "Google Books" %}}\]
 
-Dear, Peter. _The Intelligibility of Nature: How Science Makes Sense of the World_. University of Chicago Press, 2006. ISBN: 9780226139487. \[Preview with [Google Books](http://books.google.com/books?id=W1GAG3vJHpgC&printsec=frontcover#v=onepage&q&f=false)\]
+Dear, Peter. _The Intelligibility of Nature: How Science Makes Sense of the World_. University of Chicago Press, 2006. ISBN: 9780226139487. \[Preview with {{% resource_link "59394849-ca89-4c1b-930c-f4e2282284bf" "Google Books" %}}\]
 
 Required readings should be completed before each lecture. We have also provided suggested readings for each lecture, which might prove helpful when working on the papers.
 

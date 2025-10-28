@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides descriptions of the writing assignments for the
   course and includes examples of student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,7 +9,7 @@ title: Assignments
 uid: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
 ---
 
-As a [HASS-D](http://web.mit.edu/hassreq/) (Humanities Arts and Social Sciences — Distribution) and [CI-H](http://web.mit.edu/commreq/) (Communication Intensive — Humanities) subject, there will be a strong emphasis upon reading and writing. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. Students will also be required to revise and resubmit Paper 2, to give them an opportunity to work on specific writing skills in anticipation of the final paper.
+As a {{% resource_link "8a14251e-1cf2-4887-83a2-849fb102bdf8" "HASS-D" %}} (Humanities Arts and Social Sciences — Distribution) and {{% resource_link "c7ae8c5e-dfb1-4aef-a67b-6737f0bb7cb8" "CI-H" %}} (Communication Intensive — Humanities) subject, there will be a strong emphasis upon reading and writing. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. Students will also be required to revise and resubmit Paper 2, to give them an opportunity to work on specific writing skills in anticipation of the final paper.
 
 Descriptions of Papers and Sample Student Work
 ----------------------------------------------

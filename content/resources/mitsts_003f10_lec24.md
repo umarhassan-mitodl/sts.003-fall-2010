@@ -4,8 +4,6 @@ description: This resource contains information related to brain and mind contro
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/ca7c9a0876b157eb30b7b9c314485a9f_MITSTS_003F10_lec24.pdf
 file_size: 7758687
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

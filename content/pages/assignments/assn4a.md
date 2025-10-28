@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -42,7 +40,7 @@ In the written portion of this assignment, you should use standard footnote conv
 
 Fowler, A. (chair). "Meeting of the Royal Astronomical Society." _The Observatory_ 42 (July 1919): 261-262. ({{% resource_link 7b56a745-c1a6-bbf7-4b96-e6d76eec291f "PDF" %}})
 
-Thomson, J. J. (chair). "Joint Meeting of the Royal Society and the Royal Astronomical Society." _The Observatory_ 42 (November 1919): 389-398. ([PDF](http://articles.adsabs.harvard.edu//full/1919Obs....42..389./0000389.000.html))
+Thomson, J. J. (chair). "Joint Meeting of the Royal Society and the Royal Astronomical Society." _The Observatory_ 42 (November 1919): 389-398. ({{% resource_link "a442a561-1723-4a05-a036-302e0be60f65" "PDF" %}})
 
 Dyson, F. W., A. S. Eddington, and C. Davidson. "A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919." _Philosophical Transactions of the Royal Society of London_ 220A (1920): 291-333. ({{% resource_link 799c06c5-30ca-21f4-2b67-38fd4b6bd3c5 "PDF" %}})
 
@@ -52,7 +50,7 @@ Harvey, G. M. "Gravitational Deflection of Light: A Re-examination of the Observ
 
 Earman, John and Clark Glymour. "Relativity and Eclipses: The British Eclipse Expeditions of 1919 and their Predecessors." _Historical Studies in the Physical Sciences_ 11 (1980): 49-85.
 
-Collins, Harry, and Trevor Pinch. "Two Experiments that 'Proved' the Theory of Relativity." In _The Golem: What Everyone Should Know About Science._ New York: Cambridge University Press, 1993, 27-55. \[Preview with [Google Books](http://books.google.com/books?id=ijtA0JLYlooC&lpg=PP1&pg=PA27#v=onepage&q&f=false)\]
+Collins, Harry, and Trevor Pinch. "Two Experiments that 'Proved' the Theory of Relativity." In _The Golem: What Everyone Should Know About Science._ New York: Cambridge University Press, 1993, 27-55. \[Preview with {{% resource_link "40423ea5-234e-4664-bcb6-3de2164dc5c8" "Google Books" %}}\]
 
 Waller, John. "The Eclipse of Isaac Newton: Arthur Eddington's 'Proof' of General Relativity." In _Einstein's_ _Luck: The Truth Behind Some of the Greatest Scientific Discoveries_. New York: Oxford University Press, 2002, 49-63. ISBN: 9780192805676.
 
